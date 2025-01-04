@@ -2,6 +2,7 @@
 
 VoliTix is a web-based ticket management application designed specifically for volleyball tournaments. It streamlines the process of managing matches, handling ticket sales, and organizing user roles such as administrators and attendees, all within a user-friendly and secure system. With features like real-time payment updates, detailed event tracking, and intuitive dashboards, VoliTix offers an efficient solution for both organizers and fans to enhance their tournament experience.
 
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,vite,bootstrap,mysql,vscode,windows)](https://skillicons.dev)
 ## Features
 
 - **Dashboard**: 
